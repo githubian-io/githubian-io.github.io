@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vimeo/vimeo-api": "^3.0",
+        "longman/telegram-bot": "^0.62.0"
+    }
+}
